@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(178, 185, 146, 0.705);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: big;
+    margin: 0px;
+}
+#header {
+    background-color: moccasin;
+    margin: 25px;
+    height: 255px;
+}
+#main {
+    font-size: 120%;
+    padding-left: 230px;
+}

@@ -1,0 +1,12 @@
+body {
+        background-color: moccasin;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: big;
+        margin: 0px;
+}
+#main {
+        font-size: 40px;
+        text-align: center;
+        margin-top: 50px;
+        color: black;
+}
